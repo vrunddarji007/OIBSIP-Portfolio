@@ -565,6 +565,10 @@ header::before {
     overflow: hidden;
 }
 
+.social-links p {
+    margin: 10px;
+}
+
 .social-links a::before {
     content: '';
     position: absolute;
@@ -812,4 +816,5 @@ footer {
     .section-title {
         font-size: 2rem;
     }
+
 }
